@@ -6,7 +6,7 @@ I like to say that my expertise is based on a combination of two things – a **
 
 Here are some facts that you might find interesting
 
-- 💼 I'm the CEO of [HypeTech DOO](http://hypetech.xyz/) software development company and owner at **HypeTech Education** agency
+- 💼 I'm the Founder of [HypeTech DOO](http://hypetech.xyz/) software development company and owner at **HypeTech Education** agency
 - :house_with_garden: Ocasionaly, as an Independent Tech Consultant I'm helping companies setup dev teams and standardize development process
 - 🌱 I’m constantly learning new things and trying to stay updated with latest trends in tech industry
 - 💬 You can ask me about **React**, **React Native**, **Next.js**, **JavaScript**, **TypeScript**, **Kotlin**, **Swift**, **GraphQL**, **AWS Amplify**
